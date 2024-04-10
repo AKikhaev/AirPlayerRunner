@@ -25,7 +25,7 @@ This Windows Forms application is designed to launch another program, "Airplayer
   
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Contributing
 
@@ -35,7 +35,7 @@ Contributions are welcome! If you find any issues or would like to suggest impro
 
 This project utilizes:
 - C# (.NET Framework) for the Windows Forms application.
-- [MIT License](LICENSE) for open-source licensing.
+- [MIT License](LICENSE.txt) for open-source licensing.
 
 ---
 
