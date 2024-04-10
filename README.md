@@ -15,7 +15,7 @@ This Windows Forms application is designed to launch another program, "Airplayer
 1. Download or clone the repository to your local machine.
 2. Open the solution in Visual Studio.
 3. Build the solution to generate the executable (`AirPlayerRunner.exe`).
-4. Put original (`AirPlayer.exe`) in the same folder. You can use international english versio or chinese.
+4. Put original (`AirPlayer.exe`) in the same folder. You can use international english version or chinese version.
 5. Make in windows Task Scheduler a task to run the file AirPlayerRunner.exe on windows start with admin privileges.
 6. Enjoy automatically start.
 
